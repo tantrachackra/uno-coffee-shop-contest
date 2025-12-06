@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoCoffeeShop",
+  "display": "standalone",
+  "name": "UnoCoffeeShop",
+  "short_name": "UnoCoffeeShop",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
